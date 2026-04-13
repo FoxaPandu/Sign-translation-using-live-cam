@@ -55,14 +55,7 @@ ML_MINI_PROJECT/
 ├── model.pkl              # Trained Model
 │
 └── README.md              # Documentation
-⚙️ Installation & Setup
-1️⃣ Clone the repository
-git clone https://github.com/your-username/signspeak-ai.git
-cd signspeak-ai
-2️⃣ Install dependencies
-pip install opencv-python mediapipe scikit-learn pandas numpy pillow
-3️⃣ Run the application
-python gui_app.py
+
 🧪 Usage Guide
 Start the application
 Show a hand gesture in front of the webcam
